@@ -1,10 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
  
-/**
- *
- * @author Milind
- */
+
 public class BreakingTheRecords {
  
       public static void main(String[] args) {
